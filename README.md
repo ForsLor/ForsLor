@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ForsLor
-- 👀 I’m interested in C
+- 👀 I’m interested in C++
 - 🌱 I’m currently learning how to not waste my life.
 
 <!---
